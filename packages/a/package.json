@@ -1,0 +1,11 @@
+{
+    "name": "@lerna-testing/a",
+    "main": "index.js",
+    "repository": "git@github.com:geekact/lerna-testing.git",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+      "lerna": "^7.4.1"
+    }
+  }
+  
