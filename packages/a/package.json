@@ -5,6 +5,9 @@
   "description": "xxx",
   "repository": "git@github.com:geekact/lerna-testing.git",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "lerna": "^7.4.1"
   }
