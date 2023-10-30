@@ -8,5 +8,6 @@
       "conventionalCommits": true
     }
   },
+  "createRelease": "github",
   "access": "public"
 }
