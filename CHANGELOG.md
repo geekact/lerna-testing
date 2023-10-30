@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/geekact/lerna-testing/compare/v0.1.0...v0.2.0) (2023-10-30)
+
+
+### Features
+
+* **a:** update index ([59bc1bc](https://github.com/geekact/lerna-testing/commit/59bc1bc48d19182dc85acd3899ae6e3b5506197a))
+
+
+
+
+
 # 0.1.0 (2023-10-30)
 
 
