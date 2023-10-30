@@ -5,9 +5,12 @@
   "command": {
     "version": {
       "allowBranch": "main",
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "private": false,
+      "message": "chore(release): 发布版本%s",
+      "exact": true,
+      "createRelease": "github"
     }
   },
-  "createRelease": "github",
   "access": "public"
 }
