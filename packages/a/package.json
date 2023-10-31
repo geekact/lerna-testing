@@ -1,6 +1,6 @@
 {
   "name": "@lerna-testing/a",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "main": "index.js",
   "description": "xxx",
   "repository": "git@github.com:geekact/lerna-testing.git",

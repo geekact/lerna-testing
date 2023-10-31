@@ -1,6 +1,6 @@
 {
   "name": "@lerna-testing/b",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "main": "index.js",
   "repository": "git@github.com:geekact/lerna-testing.git",
   "license": "MIT",
@@ -8,8 +8,8 @@
     "@lerna-testing/a": "^0.7.0"
   },
   "devDependencies": {
-    "lerna": "^7.4.1",
-    "@lerna-testing/a": "^0.7.0"
+    "@lerna-testing/a": "^0.7.0",
+    "lerna": "^7.4.1"
   },
   "publishConfig": {
     "access": "public"
