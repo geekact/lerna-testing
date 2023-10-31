@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/geekact/lerna-testing/compare/v0.10.0...v1.0.0) (2023-10-31)
+
+
+### Features
+
+* **a:** ewf ef ([8c2bb5f](https://github.com/geekact/lerna-testing/commit/8c2bb5fc9e8693f79b53eb913e21b04e68ce72ee))
+
+
+### BREAKING CHANGES
+
+* **a:** iewf
+
+
+
+
+
 # [0.10.0](https://github.com/geekact/lerna-testing/compare/v0.9.0...v0.10.0) (2023-10-31)
 
 
