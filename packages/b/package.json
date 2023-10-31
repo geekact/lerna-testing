@@ -5,10 +5,11 @@
   "repository": "git@github.com:geekact/lerna-testing.git",
   "license": "MIT",
   "peerDependencies": {
-    "@lerna-testing/a": "0.7.0"
+    "@lerna-testing/a": "^0.7.0"
   },
   "devDependencies": {
-    "lerna": "^7.4.1"
+    "lerna": "^7.4.1",
+    "@lerna-testing/a": "^0.7.0"
   },
   "publishConfig": {
     "access": "public"
