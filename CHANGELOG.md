@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0](https://github.com/geekact/lerna-testing/compare/v0.9.0...v0.10.0) (2023-10-31)
+
+
+### Bug Fixes
+
+* **b:** add peer dependencies ([ce4cac4](https://github.com/geekact/lerna-testing/commit/ce4cac42f8a9ffed4bb811d5c26f6c5a6bf2921a))
+
+
+### Features
+
+* **a:** update index ([4c3812f](https://github.com/geekact/lerna-testing/commit/4c3812fe50f381fcdfc3c0528d11a731e012c2dd))
+
+
+
+
+
 # [0.9.0](https://github.com/geekact/lerna-testing/compare/v0.8.0...v0.9.0) (2023-10-31)
 
 

@@ -18,10 +18,10 @@ importers:
 
   packages/b:
     specifiers:
-      '@lerna-testing/a': ^0.7.0
+      '@lerna-testing/a': workspace:0.10.0
       lerna: ^7.4.1
     devDependencies:
-      '@lerna-testing/a': 0.7.0
+      '@lerna-testing/a': link:../a
       lerna: 7.4.1
 
 packages:
@@ -74,10 +74,6 @@ packages:
     engines: {node: ^14.15.0 || ^16.10.0 || >=18.0.0}
     dependencies:
       '@sinclair/typebox': 0.27.8
-    dev: true
-
-  /@lerna-testing/a/0.7.0:
-    resolution: {integrity: sha512-QiW7vNcHCealeXRFn/QXrUUPbmir2iiJPLIp3V35ptEwohw8vJnNTZCGIYubLcl9Kn+1DQiho0igYIHS7eTP+A==}
     dev: true
 
   /@lerna/child-process/7.4.1:
