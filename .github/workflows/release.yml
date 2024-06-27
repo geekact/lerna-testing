@@ -27,7 +27,7 @@ jobs:
           node-version-file: 'package.json'
       - run: pnpm install
       - run: npm config set //registry.npmjs.org/:_authToken ${{ secrets.NPM_TOKEN }}
-      - run: npx semantic-release
+      - run: npx lerna version --yes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - run: pnpm --recursive publish
