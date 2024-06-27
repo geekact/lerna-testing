@@ -27,7 +27,7 @@ importers:
   packages/b:
     devDependencies:
       '@lerna-testing/a':
-        specifier: workspace:2.2.0
+        specifier: workspace:2.4.0
         version: link:../a
       lerna:
         specifier: ^7.4.1

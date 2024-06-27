@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.4.0](https://github.com/geekact/lerna-testing/compare/v2.3.0...v2.4.0) (2024-06-27)
+
+
+### Features
+
+* **a:** semantic-release ([24a1030](https://github.com/geekact/lerna-testing/commit/24a1030acca2cd762582ae202e9eaec7f4288c18))
+
+
+
+
+
 # [2.2.0](https://github.com/geekact/lerna-testing/compare/v2.1.1...v2.2.0) (2024-06-27)
 
 
