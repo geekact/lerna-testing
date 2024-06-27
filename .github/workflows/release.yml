@@ -22,7 +22,7 @@ jobs:
           cache: 'pnpm'
           node-version-file: 'package.json'
       - run: pnpm install
-      - uses: npx lerna publish
+      - run: npx lerna publish
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
