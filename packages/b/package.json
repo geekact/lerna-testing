@@ -1,6 +1,6 @@
 {
   "name": "@lerna-testing/b",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "main": "index.js",
   "repository": "git@github.com:geekact/lerna-testing.git",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "@lerna-testing/a": "^1.0.0"
   },
   "devDependencies": {
-    "@lerna-testing/a": "workspace:2.1.1",
+    "@lerna-testing/a": "workspace:2.2.0",
     "lerna": "^7.4.1"
   },
   "publishConfig": {

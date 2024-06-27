@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/geekact/lerna-testing/compare/v2.1.1...v2.2.0) (2024-06-27)
+
+
+### Features
+
+* **a:** something ([814c1c0](https://github.com/geekact/lerna-testing/commit/814c1c01aab6c06cbee5cf75fec724f32ca90392))
+
+
+
+
+
 ## [2.1.1](https://github.com/geekact/lerna-testing/compare/v2.1.0...v2.1.1) (2024-06-27)
 
 **Note:** Version bump only for package @lerna-testing/a
