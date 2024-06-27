@@ -26,6 +26,7 @@ jobs:
           cache: 'pnpm'
           node-version-file: 'package.json'
       - run: pnpm install
+      - run: npm config set //registry.npmjs.org/:_authToken ${{ secrets.NPM_TOKEN }}
       - run: npx lerna publish --yes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
