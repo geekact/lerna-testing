@@ -3,9 +3,13 @@
   "private": true,
   "repository": "git@github.com:geekact/lerna-testing.git",
   "license": "MIT",
-  "packageManager": "pnpm@9.0.6",
   "devDependencies": {
-    "lerna": "^7.4.1",
+    "lerna": "^8.1.5",
     "lerna-changelog": "^2.2.0"
-  }
+  },
+  "volta": {
+    "node": "20.15.0",
+    "pnpm": "9.4.0"
+  },
+  "packageManager": "pnpm@9.4.0"
 }
