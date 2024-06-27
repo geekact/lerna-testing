@@ -5,8 +5,16 @@
   "description": "xxx",
   "repository": "git@github.com:geekact/lerna-testing.git",
   "license": "MIT",
+  "exports": "./src/index.ts",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "exports": {
+      ".": {
+        "types": "./dist/index.d.ts",
+        "import": "./dist/index.js"
+      },
+      "./package.json": "./package.json"
+    }
   },
   "devDependencies": {
     "lerna": "^7.4.1"
