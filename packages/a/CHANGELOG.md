@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/geekact/lerna-testing/compare/v2.0.0...v2.1.0) (2024-06-27)
+
+
+### Features
+
+* testing publishConfig ([17e4c6d](https://github.com/geekact/lerna-testing/commit/17e4c6dcc6e809c780822a8e23185ca9a8b4a602))
+
+
+
+
+
 # [2.0.0](https://github.com/geekact/lerna-testing/compare/v1.0.0...v2.0.0) (2023-10-31)
 
 
