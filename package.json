@@ -3,6 +3,7 @@
   "private": true,
   "repository": "git@github.com:geekact/lerna-testing.git",
   "license": "MIT",
+  "packageManager": "pnpm@9.0.6",
   "devDependencies": {
     "lerna": "^7.4.1",
     "lerna-changelog": "^2.2.0"
